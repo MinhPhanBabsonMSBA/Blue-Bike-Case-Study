@@ -1,11 +1,11 @@
-# Blue Bikes Case Study
+# [Blue Bikes Case Study](https://bluebikes.com/)
 
 ## 1. Introduction
 Welcome to the **Blue Bikes Case Study**!
 
 This case study leverages Tableau visualizations to explore bike-sharing patterns in the Blue Bikes system. By analyzing metrics such as trip durations, station popularity, and demographic usage trends, we provide actionable insights to optimize system performance and user satisfaction.
 
-Our Tableau dashboard serves as the centerpiece of this analysis, offering an interactive and data-driven perspective on bike-sharing trends.
+ Tableau dashboard serves as the centerpiece of this analysis, offering an interactive and data-driven perspective on bike-sharing trends.
 
 ---
 
@@ -16,20 +16,20 @@ The **Blue Bikes Dashboard** highlights key operational and user metrics, provid
 [View the Tableau Dashboard Here](https://public.tableau.com/views/Blue_BikeCaseStudy/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Demo Image
-![Blue Bikes Dashboard](path/to/your/dashboard-image.png)
+![Blue Bikes Dashboard](https://github.com/MinhPhanBabsonMSBA/Blue-Bike-Case-Study/blob/main/Blue%20Bike%20Demo.png)
 
 ### Key Features:
 - **Interactive Map**: Visualize station-level usage data and identify high-demand areas.
 - **Trip Duration Analysis**: Understand average trip durations and variations across different user demographics.
 - **Gender Breakdown**: Explore how bike-sharing usage varies between genders, shedding light on demographic trends.
-- **Station Insights**: Analyze station-specific data to uncover patterns in bike availability and usage.
+- **Station Insights**: Analyze station-specific data to uncover bike availability and usage patterns.
 
 ---
 
 ## 3. Operational Insights
 The dashboard reveals critical insights into user behavior and station performance:
 - **Station Popularity**: Certain stations experience consistently higher usage, necessitating strategic bike reallocation during peak hours.
-- **Trip Patterns**: Average trip durations vary significantly, influenced by factors such as location and user demographics.
+- **Trip Patterns**: Average trip durations vary significantly and are influenced by factors such as location and user demographics.
 - **Demographics**: Gender-specific usage trends highlight opportunities for tailored marketing and service adjustments.
 
 ---
